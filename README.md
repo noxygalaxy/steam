@@ -1,5 +1,5 @@
 # steamdeck-testing
-i will delete it later
+use it for testing not new steam decks if you buying one! :3 
 
 ## Battery test
 - Info Center in KDE Plasma ( [YT video tutorial](https://www.youtube.com/watch?v=ndXveCJfqf4&t=17s) )
